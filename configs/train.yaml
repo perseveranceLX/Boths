@@ -1,0 +1,17 @@
+
+# dataset info
+#dataset_name: "UVE-38K"/"UIEB"/"EUVP"
+dataset_name: ""
+dataset_path: ""
+
+# image info
+chans: 3
+im_width: 256
+im_height: 256
+
+# other params
+ckpt_interval: 1 # interval epochs
+
+
+
+ 
