@@ -8,4 +8,4 @@
 
 # Welcome To Contact Me
 
-# -------------------Xu Liu (silva_xu.liu@ieee.org, silva-liu@outlook.com)
+# Xu Liu (silva_xu.liu@ieee.org, silva-liu@outlook.com)
