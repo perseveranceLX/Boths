@@ -1,6 +1,6 @@
 # BOths
 
-# Pre-trained models: 
+# Pre-trained models: https://drive.google.com/drive/folders/1ciyw53c4V2--T2AGPzM4T5ijPCg0xZKv?usp=sharing
 
 # Our MIX benchmark: https://github.com/perseveranceLX/MIX
 
