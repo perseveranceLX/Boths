@@ -6,6 +6,4 @@
 
 # Our T40 dataset: https://github.com/perseveranceLX/T40
 
-# Welcome To Contact Me
-
-# Xu Liu (silva_xu.liu@ieee.org, silva-liu@outlook.com)
+# Welcome To Contact Me：Xu Liu (silva_xu.liu@ieee.org, silva-liu@outlook.com)
