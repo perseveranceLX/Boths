@@ -1,7 +1,7 @@
 # Code of Our Boths
 
 # Training code:
-Following the acceptance of the article, the training code will be published as soon as possible.
+Following the acceptance of the article, we will make the training code available to the public as soon as possible.
 
 # Pre-trained models: 
 https://drive.google.com/drive/folders/1ciyw53c4V2--T2AGPzM4T5ijPCg0xZKv?usp=sharing
